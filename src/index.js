@@ -17,5 +17,5 @@ app.get('/users', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log("Server is UP! at port:", port);
+    console.log("Server is UP! at port: ", port);
 })
