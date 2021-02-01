@@ -1,5 +1,5 @@
 const express = require('express');
-const client = require('./app/db/db');
+// const client = require('./app/db/db');
 const user = {
     name: "Pritam Gope",
     status: "Online"
